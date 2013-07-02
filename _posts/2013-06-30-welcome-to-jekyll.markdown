@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2013-07-01 19:45:57
+date:   2013-06-30 12:45:57
 categories: Uncategorized
 ---
 
