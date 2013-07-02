@@ -75,9 +75,12 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
+  font-size: 1.4em;
   margin-bottom: 2em;
 }
-
+.site .header h1 small {
+  font-size: .75em;
+}
 .site .header h1.title a {
   color: #a00;
 }
